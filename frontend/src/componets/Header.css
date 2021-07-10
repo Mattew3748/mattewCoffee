@@ -1,0 +1,25 @@
+.nav-link {
+  background-color: #ff1659;
+  color: white;
+  font-weight: 700;
+  border: 1px solid white;
+  padding-top: 12px;
+  padding-bottom: 4px;
+}
+a:hover {
+  background-color: wheat;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-lin a.nav-link.active {
+  background-color: #f1648a;
+}
+.my-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  transition: top 0.2s ease-in-out;
+  z-index: 3;
+}

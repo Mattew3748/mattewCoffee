@@ -1,0 +1,14 @@
+.allDiv {
+  position: relative;
+  width: 100%;
+}
+.buttonPosition {
+  position: absolute;
+  top: 310px;
+  left: 640px;
+}
+.buttonPosition2 {
+  position: absolute;
+  top: 0px;
+  left: 1255px;
+}
