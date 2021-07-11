@@ -46,6 +46,7 @@
 ![image](https://user-images.githubusercontent.com/73806238/125187028-7574d800-e268-11eb-994b-66452d564d14.png)
 
 [결제페이지 - PayPal]
+
 ![image](https://user-images.githubusercontent.com/73806238/125187043-91787980-e268-11eb-8339-3e1f71c78329.png)
 
 [관리자페이지 - 실시간 주문 현황]
