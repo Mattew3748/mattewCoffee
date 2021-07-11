@@ -33,25 +33,25 @@
 ### 6. 사용기술
 ![그림4](https://user-images.githubusercontent.com/73806238/125186141-8e2ebf00-e263-11eb-9ba1-61281d9a7262.png)
 
-[시작페이지]
+##### [시작페이지]
 ![image](https://user-images.githubusercontent.com/73806238/125186900-d2bc5980-e267-11eb-9cf4-46d2f1144c21.png)
 
-[메인페이지]
+#####[메인페이지]
 ![image](https://user-images.githubusercontent.com/73806238/125186981-49595700-e268-11eb-86d9-f9c8853d6978.png)
 
-[상제페이지]
+#####[상제페이지]
 ![image](https://user-images.githubusercontent.com/73806238/125187010-655cf880-e268-11eb-9d0a-0b9fc8079081.png)
 
-[장바구니페이지]
+#####[장바구니페이지]
 ![image](https://user-images.githubusercontent.com/73806238/125187028-7574d800-e268-11eb-994b-66452d564d14.png)
 
-[결제페이지 - PayPal]
+#####[결제페이지 - PayPal]
 
 ![image](https://user-images.githubusercontent.com/73806238/125187043-91787980-e268-11eb-8339-3e1f71c78329.png)
 
-[관리자페이지 - 실시간 주문 현황]
+#####[관리자페이지 - 실시간 주문 현황]
 ![image](https://user-images.githubusercontent.com/73806238/125187066-ba007380-e268-11eb-8013-b72fb2463ada.png)
 
-[관리페이지 - 지난 주문 내역]
+#####[관리페이지 - 지난 주문 내역]
 ![image](https://user-images.githubusercontent.com/73806238/125187075-c389db80-e268-11eb-8721-41db464be846.png)
 
